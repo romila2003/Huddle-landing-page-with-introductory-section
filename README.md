@@ -25,21 +25,21 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 # Mobile Preview 
 
-![screenshot]()
+![screenshot](https://github.com/romila2003/Huddle-landing-page-with-single-introductory-section/blob/main/Mobile%20preview.PNG)
 
 # Tablet Preview
 
-![screenshot]()
+![screenshot](https://github.com/romila2003/Huddle-landing-page-with-single-introductory-section/blob/main/Tablet%20preview.PNG)
 
 # Desktop Preview 
 
-![screenshot]()
+![screenshot](https://github.com/romila2003/Huddle-landing-page-with-single-introductory-section/blob/main/Desktop%20preview.PNG)
 
 
 ### Links
 
- - Source code: []()
- - Live website: []()
+ - Source code: [https://github.com/romila2003/Huddle-landing-page-with-single-introductory-section](https://github.com/romila2003/Huddle-landing-page-with-single-introductory-section)
+ - Live website: [https://huddle-landing-page-single-intro.netlify.app/](https://huddle-landing-page-single-intro.netlify.app/)
 
 ## My process
 
