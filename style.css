@@ -103,7 +103,7 @@ ul {
     cursor: pointer;
 }
 
-.icon:hover {
+.icon a:hover {
     color: var(--soft-magenta);
     border-color: var(--soft-magenta);
 }
